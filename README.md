@@ -1,0 +1,2 @@
+# cgs
+class 20
